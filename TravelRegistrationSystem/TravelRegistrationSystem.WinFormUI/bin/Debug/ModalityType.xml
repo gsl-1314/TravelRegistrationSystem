@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SubjectType>
+  <type>
+    <name>自助旅游</name>
+  </type>
+  <type>
+    <name>亲子旅游</name>
+  </type>
+  <type>
+    <name>跟团旅游</name>
+  </type>
+  <type>
+    <name>自驾车旅游</name>
+  </type>
+</SubjectType>

@@ -1,0 +1,12 @@
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\TravelRegistrationSystem.Domain.dll.config
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\TravelRegistrationSystem.Domain.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\TravelRegistrationSystem.Domain.pdb
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\EntityFramework.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\EntityFramework.SqlServer.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\Ninject.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\EntityFramework.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Release\Ninject.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\obj\Release\TravelRegistrationSystem.Domain.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\obj\Release\TravelRegistrationSystem.Domain.pdb
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\obj\Release\TravelRegistrationSystem.Domain.csprojResolveAssemblyReference.cache

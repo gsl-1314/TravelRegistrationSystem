@@ -1,0 +1,11 @@
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\OpenCourseRegistrationSystem.Domain.dll.config
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\OpenCourseRegistrationSystem.Domain.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\OpenCourseRegistrationSystem.Domain.pdb
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\EntityFramework.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\Ninject.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\EntityFramework.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\bin\Debug\Ninject.xml
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\obj\Debug\OpenCourseRegistrationSystem.Domain.dll
+D:\个人\dotNet\asp下学期\任务\大话设计模式\OpenCourseRegistrationSystem\OpenCourseRegistrationSystem.Domain\obj\Debug\OpenCourseRegistrationSystem.Domain.pdb
